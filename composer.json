@@ -7,7 +7,8 @@
         }
     },
     "require": {
-        "trueme/mapping-array": "dev-master"
+        "trueme/mapping-array": "dev-master",
+        "guzzlehttp/guzzle": "^6.2"
     },
     "repositories": [
         {
