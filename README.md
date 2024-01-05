@@ -13,7 +13,7 @@
     |   |__Child.php
     |       |__//This class will two packages: 
     |           |__{"trueme/mapping-array": "dev-master"}
-    |           |__{"guzzlehttp/guzzle": "6.2"}
+    |           |__{"guzzlehttp/guzzle": "6.2.0"}
     |
     |
     |__index.php
@@ -27,7 +27,7 @@
     > You have ParentComposer project: https://github.com/quocvo87/ParentComposer.git
     > ParentComposer also use: 
         |__{"trueme/mapping-array": "dev-master"}
-        |__{"guzzlehttp/guzzle": "6.3.2"}
+        |__{"guzzlehttp/guzzle": "6.3.0"}
     > ParentComposer will have conflict when use: composer install/update to download packages above
     > Please review detail at ParentComposer README.md
 -----------------------
