@@ -14,6 +14,7 @@
     |       |__//This class will two packages: 
     |           |__{"trueme/mapping-array": "dev-master"}
     |           |__{"guzzlehttp/guzzle": "6.2.0"}
+    |           |__{"nesbot/carbon": "2.22.0"}
     |
     |
     |__index.php
